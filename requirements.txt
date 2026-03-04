@@ -4,3 +4,4 @@ openai
 langchain==0.1.0
 tiktoken
 python-dotenv
+pydantic-settings
