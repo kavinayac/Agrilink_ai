@@ -2,6 +2,7 @@ fastapi
 uvicorn
 openai
 langchain==0.1.0
+langchain-openai
 tiktoken
 python-dotenv
 pydantic-settings
