@@ -7,3 +7,4 @@ tiktoken
 python-dotenv
 pydantic-settings
 redis
+chromadb
